@@ -1,0 +1,35 @@
+{
+  "employee": [
+    {
+      "name": "John Smith",
+      "totalSales": 157,
+      "salesPeriod": 14,
+      "experienceMultiplier": 0.96
+    },
+    {
+      "name": "David Prowless",
+      "totalSales": 186,
+      "salesPeriod": 17,
+      "experienceMultiplier": 0.5
+    },
+    {
+      "name": "David Right",
+      "totalSales": 122,
+      "salesPeriod": 13,
+      "experienceMultiplier": 0.79
+    },
+    {
+      "name": "Left Stop",
+      "totalSales": 189,
+      "salesPeriod": 19,
+      "experienceMultiplier": 0.24
+    },
+    {
+      "name": "Jimmy Neutron",
+      "totalSales": 142,
+      "salesPeriod": 15,
+      "experienceMultiplier": 0.59
+    }
+  ]
+}
+
