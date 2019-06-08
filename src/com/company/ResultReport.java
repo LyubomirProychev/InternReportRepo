@@ -63,7 +63,7 @@ public class ResultReport {
             for(int i = 0; i < employeeArray.size(); i++){
 
                 employee = (JSONObject) employeeArray.get(i);
-                if (periodLimit < ((Long) employee.get("salesPeriod")).intValue()){
+                if (periodLimit <= ((Long) employee.get("salesPeriod")).intValue()){
                     calculateScore(employee, useExperienceMultiplier);
                 }
             }
